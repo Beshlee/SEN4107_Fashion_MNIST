@@ -1,6 +1,6 @@
 # Fashion-MNIST Classification and Deep Visualization Analysis
 
-This repository contains the final project for the **SEN4107 Neural Network** course. The project explores image classification on the Fashion-MNIST dataset using two distinct Convolutional Neural Network (CNN) architectures and provides a deep visualization of internal model representations.
+This repository contains the final project for the **SEN4107  Introduction to Neural Networks** course. The project explores image classification on the Fashion-MNIST dataset using two distinct Convolutional Neural Network (CNN) architectures and provides a deep visualization of internal model representations.
 
 ## Project Overview
 

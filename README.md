@@ -36,11 +36,6 @@ Following established methodologies for interpreting neural networks, we visuali
 * **Edge Detection:** Early filters successfully captured low-level features such as high-contrast edges and structural silhouettes of items like 'Sneakers'.
 * **Hierarchical Learning:** The analysis confirms that the network learns to build complex conceptual representations from these basic geometric outlines.
 
-## Repository Structure
-* `Baseline_Model.ipynb`: Implementation and training of the Baseline CNN.
-* `ResNet18_Model.ipynb`: Modified ResNet-18 implementation for grayscale input.
-* `PROJECT_REPORT.pdf`: Comprehensive final report detailing the experimental rigor and results.
-* `visualizations/`: Exported activation maps and training curves.
 
 ## Requirements
 * Python 3.x
